@@ -4,10 +4,10 @@ This project focuses on creating a streamlined solution for managing and retriev
 
 **Key Features:**
 
-> CSV Integration:
+CSV Integration:
       A well-structured CSV file serves as the database, storing student details in an organized manner for quick and easy access.
 
-> Student Verification:
+Student Verification:
       The system verifies student details by matching the name and enrollment number provided by the user against the records in the CSV file.
 
 > Detailed Report Card Generation:
