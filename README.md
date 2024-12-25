@@ -21,7 +21,7 @@ This project focuses on creating a streamlined solution for managing and retriev
       The report card is presented in a user-friendly format through the Tkinter interface.
 
 ### Error Handling:
-      If the entered name or enrollment number does not match any record, the system displays a clear error message, ensuring a smooth user experience.
+      If the entered name or enrollment number does not match any record, the system displays a clear error message.
 
 ### User-Friendly GUI:
       Designed with Tkinter, the graphical user interface ensures easy navigation and interaction.
