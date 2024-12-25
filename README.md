@@ -10,7 +10,7 @@ CSV Integration:
 Student Verification:
       The system verifies student details by matching the name and enrollment number provided by the user against the records in the CSV file.
 
-> Detailed Report Card Generation:
+Detailed Report Card Generation:
       If a match is found, the system generates and displays a comprehensive report card, including:
             Name
             Enrollment Number
@@ -20,10 +20,10 @@ Student Verification:
             Pass/Fail Status
       The report card is presented in a user-friendly format through the Tkinter interface.
 
-> Error Handling:
+Error Handling:
       If the entered name or enrollment number does not match any record, the system displays a clear error message, ensuring a smooth user experience.
 
-> User-Friendly GUI:
+User-Friendly GUI:
       Designed with Tkinter, the graphical user interface ensures easy navigation and interaction.
       Users can enter details and retrieve results seamlessly through an interactive layout.
 
