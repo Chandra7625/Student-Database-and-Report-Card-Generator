@@ -4,8 +4,7 @@ This project focuses on creating a streamlined solution for managing and retriev
 
 ## **Key Features:**
 
-### CSV Integration: 
-
+### CSV Integration:
       A well-structured CSV file serves as the database, storing student details in an organized manner for quick and easy access.
 
 ### Student Verification: 
