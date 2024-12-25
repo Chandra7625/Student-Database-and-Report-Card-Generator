@@ -12,12 +12,12 @@ Student Verification:
 
 Detailed Report Card Generation:
       If a match is found, the system generates and displays a comprehensive report card, including:
-            Name
-            Enrollment Number
-            Marks scored in each subject
-            Total Marks
-            Average Marks
-            Pass/Fail Status
+            Name,
+            Enrollment Number,
+            Marks scored in each subject,
+            Total Marks,
+            Average Marks,
+            Pass/Fail Status.
       The report card is presented in a user-friendly format through the Tkinter interface.
 
 Error Handling:
